@@ -54,28 +54,6 @@ export const links = [
     calloutClass: "rainbow",
   },
   {
-    label: "Info",
-    icon: "InfoIcon",
-    items: [
-      {
-        label: "Overview",
-        href: "https://pancakeswap.info",
-      },
-      {
-        label: "Tokens",
-        href: "https://pancakeswap.info/tokens",
-      },
-      {
-        label: "Pairs",
-        href: "https://pancakeswap.info/pairs",
-      },
-      {
-        label: "Accounts",
-        href: "https://pancakeswap.info/accounts",
-      },
-    ],
-  },
-  {
     label: "IFO",
     icon: "IfoIcon",
     items: [
@@ -99,15 +77,11 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
-      },
-      {
-        label: "Docs",
-        href: "https://goosedefi.gitbook.io/goose-finance/",
+        href: "https://github.com/duckyFinance",
       },
       {
         label: "Blog",
-        href: "https://goosefinance.medium.com/",
+        href: "https://duckyfinance.medium.com/",
       },
     ],
   },
@@ -120,55 +94,11 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/duckyfinancechat",
       },
-      // {
-      //   label: "Bahasa Indonesia",
-      //   href: "https://t.me/PancakeSwapIndonesia",
-      // },
-      {
-        label: "中文",
-        href: "https://t.me/goosefinancechinese",
-      },
-      // {
-      //   label: "Tiếng Việt",
-      //   href: "https://t.me/PancakeSwapVN",
-      // },
-      // {
-      //   label: "Italiano",
-      //   href: "https://t.me/pancakeswap_ita",
-      // },
-      {
-        label: "русский",
-        href: "https://t.me/goosefinancerussian",
-      },
-      {
-        label: "Türkiye",
-        href: "https://t.me/GooseFinanceTurkey",
-      },
-      // {
-      //   label: "Português",
-      //   href: "https://t.me/PancakeSwapPortuguese",
-      // },
-      {
-        label: "Español",
-        href: "https://t.me/goosefinancespanish",
-      },
-      {
-        label: "日本語",
-        href: "https://t.me/goosefinancejapanese",
-      },
-      // {
-      //   label: "Français",
-      //   href: "https://t.me/pancakeswapfr",
-      // },
       {
         label: "Announcements",
-        href: "https://t.me/goosefinanceann",
-      },
-      {
-        label: "Price Bot",
-        href: "https://t.me/BinanceRocketEGG",
+        href: "https://t.me/duckyfinance_announcements",
       },
     ],
   },
