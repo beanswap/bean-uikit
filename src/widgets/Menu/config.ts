@@ -77,11 +77,11 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/duckyFinance",
+        href: "https://github.com/beanswap",
       },
       {
         label: "Blog",
-        href: "https://duckyfinance.medium.com/",
+        href: "https://beanswap.medium.com/",
       },
     ],
   },
@@ -94,18 +94,18 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/duckyfinancechat",
+        href: "https://t.me/beanswapchat",
       },
       {
         label: "Announcements",
-        href: "https://t.me/duckyfinance_announcements",
+        href: "https://t.me/beanswap_announcements",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/DuckyFinance",
+    href: "https://twitter.com/beanswap",
   },
 ];
 
